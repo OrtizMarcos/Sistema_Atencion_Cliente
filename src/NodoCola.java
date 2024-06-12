@@ -2,8 +2,7 @@
  * Clase que representa un Nodo de una Cola
  *
  * @param <TipoDeDato> Tipo de Dato a almacenar dentro del nodo.
- * @author Prof. Derlis Zarate (profderliszarate@gmail.com)
- * @author Prof. Saúl Zalimben (szalimben93@gmail.com)
+ * @author Marcos Ortiz (marcos.ram.ort@gmail.com)
  */
 public class NodoCola<TipoDeDato> {
 
