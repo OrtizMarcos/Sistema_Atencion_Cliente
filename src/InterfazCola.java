@@ -2,8 +2,7 @@
  * Interfaz que define las operaciones de una Cola
  *
  * @param <TipoDeDato> Tipo de Dato a almacenar dentro de la cola
- * @author Prof. Derlis Zarate (profderliszarate@gmail.com)
- * @author Prof. Saúl Zalimben (szalimben93@gmail.com)
+ * @author Marcos Ortiz (marcos.ram.ort@gmail.com)
  */
 public interface InterfazCola<TipoDeDato> {
         
